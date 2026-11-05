@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-flow-forecasting-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-cash-flow-forecasting",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_cash_flow_forecasting_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/cash-flow-forecasting.md",
+  "presentationPlan": "projects/accounting/features/cash-flow-forecasting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
